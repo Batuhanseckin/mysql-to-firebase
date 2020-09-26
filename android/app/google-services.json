@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1073660748301",
+    "firebase_url": "https://mysql-to-firebase-97d0d.firebaseio.com",
+    "project_id": "mysql-to-firebase-97d0d",
+    "storage_bucket": "mysql-to-firebase-97d0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073660748301:android:1c87a143a8abf3664bab44",
+        "android_client_info": {
+          "package_name": "com.example.mysql_to_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073660748301-iv97gbdd67rh6op7mbr90q9llo10tjpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdR3Uly1YKaLCdS4nbOZlT8AZpxwUHSr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073660748301-iv97gbdd67rh6op7mbr90q9llo10tjpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
