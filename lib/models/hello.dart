@@ -37,7 +37,7 @@ void main() {
               Icon(
                 Icons.access_alarm,
                 size: 64,
-                color: Colors.blue,
+                color: Colors.purple,
               ),
             ],
           ),
