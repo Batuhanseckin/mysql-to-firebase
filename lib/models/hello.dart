@@ -32,7 +32,7 @@ void main() {
               Icon(
                 Icons.add,
                 size: 64,
-                color: Colors.pink,
+                color: Colors.blue,
               ),
               Icon(
                 Icons.access_alarm,
